@@ -3,6 +3,7 @@ html {
     background-color:#9b95b981;
     background: url("../images/back.jpg");
    
+   
     
   }
   *,
@@ -24,14 +25,13 @@ html {
         rgba(136, 136, 206, 0.7)
       ),
       
-      url(images/back.jpg);
+      url("../images/back.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
   }
 #main {
     background-color: #22116b44;
-   /* background-image:  url('/james-baldwin-b9vkGONY4eI-unsplash.jpg');  */
 color: #3D3A4B; 
 }
 
